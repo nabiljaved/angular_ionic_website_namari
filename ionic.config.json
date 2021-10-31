@@ -1,0 +1,12 @@
+{
+  "defaultProject": "websitePractise",
+  "projects": {
+    "websitePractise": {
+      "name": "websitePractise",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular"
+    }
+  }
+}
